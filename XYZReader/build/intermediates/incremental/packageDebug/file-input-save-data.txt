@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Dec 18 15:27:32 EST 2016
+#Sun Dec 18 16:28:29 EST 2016
 122.file=/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable/abc_list_selector_background_transition_holo_light.xml
 60.set=ANDROID_RESOURCE
 52.set=ANDROID_RESOURCE

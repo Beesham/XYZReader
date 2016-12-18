@@ -1811,7 +1811,14 @@
                     "endOffset": 23921
                 },
                 "from": {
-                    "file": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/src/main/res/values/macro_layout.xml"
+                    "file": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/src/main/res/values/macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 49,
+                        "endOffset": 181
+                    }
                 }
             },
             {
@@ -4372,15 +4379,7 @@
                     "endOffset": 98603
                 },
                 "from": {
-                    "file": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 995,
-                        "endLine": 31,
-                        "endColumn": 12,
-                        "endOffset": 1312
-                    }
+                    "file": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/src/main/res/values/styles.xml"
                 }
             },
             {
