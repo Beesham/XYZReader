@@ -4,12 +4,12 @@
         "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
-    },
-    {
         "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
@@ -32,12 +32,12 @@
         "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
-    },
-    {
         "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
@@ -48,12 +48,12 @@
         "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
-    },
-    {
         "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
         "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
     },
     {
         "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_detail.xml",

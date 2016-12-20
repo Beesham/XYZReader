@@ -1,0 +1,4 @@
+#Tue Dec 20 12:01:15 EST 2016
+base.0=/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
