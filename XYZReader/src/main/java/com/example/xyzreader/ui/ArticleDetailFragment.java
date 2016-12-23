@@ -11,6 +11,7 @@ import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v4.app.ShareCompat;
 import android.support.v7.app.ActionBar;
@@ -135,9 +136,28 @@ public class ArticleDetailFragment extends Fragment implements
         actionBar.setDisplayHomeAsUpEnabled(true);
         actionBar.setDisplayShowTitleEnabled(false);
 
-         mCollapsingToolbarLayout =
+        mCollapsingToolbarLayout =
                 (CollapsingToolbarLayout) mRootView.findViewById(R.id.collapsing_toolbar);
         mCollapsingToolbarLayout.setTitleEnabled(false);
+
+       /* AppBarLayout appBarLayout = (AppBarLayout) mRootView.findViewById(R.id.toolbar_container);
+        appBarLayout.addOnOffsetChangedListener(new AppBarLayout.OnOffsetChangedListener() {
+            boolean isShow = false;
+            int scroolRange = -1;
+
+            @Override
+            public void onOffsetChanged(AppBarLayout appBarLayout, int verticalOffset) {
+                if(scroolRange == -1) scroolRange = appBarLayout.getTotalScrollRange();
+                if(scroolRange + verticalOffset == 0){
+                    mCollapsingToolbarLayout.setTitle(" ");
+                    isShow = true;
+                }else{
+                    mCollapsingToolbarLayout.setTitle("TItle");
+                    isShow = false;
+                }
+            }
+        });*/
+
 
         mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
         mPhotoContainerView = mRootView.findViewById(R.id.photo_container);
