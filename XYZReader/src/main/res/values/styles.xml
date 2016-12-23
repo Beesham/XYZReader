@@ -23,6 +23,9 @@
         <item name="colorAccent">@color/theme_accent</item>
 
         <item name="colorControlNormal">@color/white</item>
+
+        <item name="android:windowExitTransition">@transition/slide</item>
+
     </style>
 
     <style name="Theme.Bacon.Detail">
