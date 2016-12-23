@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     }
 ]

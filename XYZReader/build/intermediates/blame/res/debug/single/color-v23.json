@@ -1,42 +1,42 @@
 [
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_default.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_spinner.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_switch_thumb.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/color-v23/design_tint_password_toggle.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_edittext.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/media/beesham/D6F0BCF9F0BCE0C3/UdacityAndroidDeveloperNanodegree/Project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\UdacityAndroidDeveloperNanodegree\\Project5\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v23\\abc_tint_switch_thumb.xml"
     }
 ]
